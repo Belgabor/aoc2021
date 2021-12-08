@@ -2,6 +2,8 @@ from pprint import pprint
 import numpy as np
 import sys
 
+# Note: failed attempt
+
 data = open('data.txt', 'r')
 lines = data.readlines()
 
