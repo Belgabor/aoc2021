@@ -70,7 +70,7 @@ function abortThis(node: string): boolean {
         return true
     }
 
-    // If we get here, node has been usesd exactly once
+    // If we get here, node has been used exactly once
     return hasTwiceUsed()
 }
 
