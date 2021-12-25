@@ -1,7 +1,4 @@
 // deno-lint-ignore-file camelcase ban-unused-ignore
-/**
- * Dijkstra's Algorithm
- */
 export { }
 const test = false
 const data = await Deno.readTextFile(test ? './test_data.txt' : './data.txt')
